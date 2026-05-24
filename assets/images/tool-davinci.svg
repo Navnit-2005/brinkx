@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title">
+  <title id="title">DaVinci Resolve icon</title>
+  <rect width="220" height="220" rx="32" fill="#101010"/>
+  <circle cx="110" cy="110" r="70" fill="none" stroke="#ffffff" stroke-width="10"/>
+  <circle cx="110" cy="68" r="28" fill="#55b8ff"/>
+  <circle cx="72" cy="132" r="28" fill="#ff6f61"/>
+  <circle cx="148" cy="132" r="28" fill="#76d66b"/>
+  <circle cx="110" cy="110" r="14" fill="#ffffff"/>
+</svg>

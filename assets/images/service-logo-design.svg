@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title">
+  <title id="title">Logo design icon</title>
+  <rect width="220" height="220" rx="32" fill="#050505"/>
+  <rect x="20" y="20" width="180" height="180" rx="22" fill="#fffdf8"/>
+  <circle cx="110" cy="110" r="54" fill="none" stroke="#050505" stroke-width="12"/>
+  <path d="M72 148 110 66 148 148" fill="none" stroke="#050505" stroke-width="13" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M91 118h38" stroke="#050505" stroke-width="11"/>
+  <path d="M52 52h34M134 168h34" stroke="#6b6b66" stroke-width="9" stroke-linecap="square"/>
+</svg>
